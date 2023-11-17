@@ -1,53 +1,53 @@
 {
-  "WBUI2": {
-    "settings": {
-        "OpenButton": 0,
-        "HideIcon": true,
-        "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
-        "DisableIconText": false,
-        "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
-      },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
-          "title1": "Welcome to The land of Anarchy!",
-          "text1": "Please make sure to read our server info and rules by clicking on one of the buttons below!",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "Rules",
-          "title1": "Follow these rules to keep it fun and fair for everyone!",
-          "text1": "General\n\n- No racism/sexism\n\n No cheating\n\n- No teaming\n\n- No insiding\n\n- Dont use default survivor names like human, mensch, mens etc\n\nBuilding\n\n- One main base per map\n\n Don't block access to obelisk and spawnpoints\n\nRaiding/PvP\n\n- No popcorning, this means dropping of items/cryos during a raid\n\n- Cage time max 30 minutes except when raiding\n\n- No raft/platform saddle glitching",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-		}
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "Info",
-          "title1": "Server info",
-          "text1": "Our server rates:\n\n- 5x harvesting\n\n- 10x XP\n\n15x Taming\n\n- 15x Breeding\n\n- 5x Dino/Player weight\n\n- Max dino lvl 150\n\n- Max player lvl 105 without ascension\n\n- Tribe limit 6\n\n- Turret limit 150",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Discord",
-          "url": "https://discord.gg/8MSstADAMW"
-        }
-      }
-    ]
-  }
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+                    "title1": "Welcome to The land of Anarchy!",
+                    "text1": "Please make sure to read our server info and rules by clicking on one of the buttons below!",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Rules",
+                    "title1": "Follow these rules to keep it fun and fair for everyone!",
+                    "text1": "General\n\n- No racism/sexism\n\n- No cheating\n\n- No teaming\n\n- No insiding\n\n- Dont use default survivor names like human, mensch, mens etc\n\nBuilding\n\n- One main base per map\n\n Don't block access to obelisk and spawnpoints\n\nRaiding/PvP\n\n- No popcorning, this means dropping of items/cryos during a raid\n\n- Cage time max 30 minutes except when raiding\n\n- No raft/platform saddle glitching",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Info",
+                    "title1": "Server info",
+                    "text1": "Our server rates:\n\n- 5x harvesting\n\n- 10x XP\n\n15x Taming\n\n- 15x Breeding\n\n- 5x Dino/Player weight\n\n- Max dino lvl 150\n\n- Max player lvl 105 without ascension\n\n- Tribe limit 6\n\n- Turret limit 150",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/8MSstADAMW"
+                }
+            }
+        ]
+    }
 }
