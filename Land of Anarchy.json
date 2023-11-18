@@ -24,7 +24,7 @@
             },
             {
                 "tab2": {
-                    "layout": 2,
+                    "layout": 1,
                     "buttontext": "Rules",
                     "title1": "Follow these rules to keep it fun and fair for everyone!",
                     "text1": "General\n\n- No racism/sexism\n\n- No cheating\n\n- No teaming\n\n- No insiding\n\n- Dont use default survivor names like human, mensch, mens etc\n\nBuilding\n\n- One main base per map\n\n- Don't block access to obelisk and spawnpoints\n\nRaiding/PvP\n\n- No popcorning, this means dropping of items/cryos during a raid\n\n- Cage time max 30 minutes except when raiding\n\n- No raft/platform saddle glitching",
@@ -33,7 +33,7 @@
             },
             {
                 "tab2": {
-                    "layout": 2,
+                    "layout": 1,
                     "buttontext": "Info",
                     "title1": "Server info",
                     "text1": "Our server rates:\n\n- 5x harvesting\n\n- 10x XP\n\n15x Taming\n\n- 15x Breeding\n\n- 5x Dino/Player weight\n\n- Max dino lvl 150\n\n- Max player lvl 105 without ascension\n\n- Tribe limit 6\n\n- Turret limit 150\n\n- Mating interval varies from 2 to 7 hours this is rgn",
